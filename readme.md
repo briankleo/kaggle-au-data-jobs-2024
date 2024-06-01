@@ -12,3 +12,7 @@ data source
 https://www.kaggle.com/datasets/nadzmiagthomas/australia-data-science-jobs/data
 
 packages used for this project are outlined in the code and need to be installed beforehand.
+
+## license
+
+https://creativecommons.org/licenses/by-nc/4.0/
